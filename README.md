@@ -5,7 +5,7 @@
 
 Мы создаем `CMakeLists.txt` для `formatter_ex_lib`, `formatter_lib` и `solver_application` соответственно
 
-СОдержимое`CMakeLists.txt` для `formatter_ex_lib`:
+Сoдержимое`CMakeLists.txt` для `formatter_ex_lib`:
 ```
 cmake_minimum_required(VERSION 3.4)
 
